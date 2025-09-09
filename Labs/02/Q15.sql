@@ -1,0 +1,1 @@
+SELECT TO_CHAR(TO_DATE('25-DEC-2023','DD-MON-YYYY'), 'MM-YYYY') AS month_year FROM dual;

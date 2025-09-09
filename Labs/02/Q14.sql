@@ -1,0 +1,1 @@
+SELECT NEXT_DAY(TO_DATE('20-AUG-2022','DD-MON-YYYY'), 'MONDAY') AS next_monday FROM dual;

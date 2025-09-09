@@ -1,0 +1,1 @@
+SELECT TO_CHAR(SYSDATE, 'DAY MONTH YYYY') AS full_date FROM dual;
