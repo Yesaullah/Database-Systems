@@ -1,0 +1,1 @@
+ALTER TABLE employees ADD email VARCHAR2(50) UNIQUE;

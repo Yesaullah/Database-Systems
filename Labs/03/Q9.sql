@@ -1,0 +1,2 @@
+ALTER TABLE employees MODIFY full_name VARCHAR(20);
+ALTER TABLE employees MODIFY city VARCHAR(20);

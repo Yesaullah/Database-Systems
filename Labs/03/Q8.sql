@@ -1,0 +1,1 @@
+DELETE FROM employees WHERE emp_id IN (1, 3);

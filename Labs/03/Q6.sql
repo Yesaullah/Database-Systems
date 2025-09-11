@@ -1,0 +1,1 @@
+ALTER TABLE employees ADD bonus NUMBER(6, 2) DEFAULT 1000;
